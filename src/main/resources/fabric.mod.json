@@ -5,7 +5,11 @@
     "name": "network-protocol-error",
     "description": "No more of the annoying 'Network Protocol Error' message.",
     "authors": [ "xKingDark" ],
-    "contact": {},
+    "contact": {
+        "sources": "https://github.com/xKingDark/network-protocol-error",
+        "issues": "https://github.com/xKingDark/network-protocol-error/issues"
+    },,
+    "icon": "icon.png",
     "license": "MIT",
     "environment": "client",
     "entrypoints": {
