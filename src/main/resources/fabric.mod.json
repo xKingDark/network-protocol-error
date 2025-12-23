@@ -1,0 +1,22 @@
+{
+    "schemaVersion": 1,
+    "id": "network-protocol-error",
+    "version": "${version}",
+    "name": "network-protocol-error",
+    "description": "No more of the annoying 'Network Protocol Error' message.",
+    "authors": [ "xKingDark" ],
+    "contact": {},
+    "license": "MIT",
+    "environment": "client",
+    "entrypoints": {
+        "client": []
+    },
+    "mixins": [
+        "network-protocol-error.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": ">=${loader_version}",
+        "fabric-api": "*",
+        "minecraft": "${minecraft_version}"
+    }
+}
