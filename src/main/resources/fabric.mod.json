@@ -8,7 +8,7 @@
     "contact": {
         "sources": "https://github.com/xKingDark/network-protocol-error",
         "issues": "https://github.com/xKingDark/network-protocol-error/issues"
-    },,
+    },
     "icon": "icon.png",
     "license": "MIT",
     "environment": "client",
